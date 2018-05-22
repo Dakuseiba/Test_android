@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android_First_Ap</string>
+    <string name="clickButton">Suma</string>
+    <string name="clickButtonTwo">Usuń</string>
+    <string name="firstNumber">Podaj pierwszą liczbę</string>
+    <string name="lastNumber">Podaj drugą liczbę</string>
+    <string name="clickDel">Różnica</string>
+    <string name="clickMno">*</string>
+    <string name="clickDziel">/</string>
+</resources>
